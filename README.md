@@ -1,6 +1,8 @@
 ## Hi there 🫧, I am Janosia ఇ ◝‿◜ ఇ! 
 - 🔭 I am learning how to learn
 - 🌸 I’m interested in blockchain and cryptography
+- 📓 Exploring how decentralized systems can create a better, more secure world
+- 🌵 Currently diving into the math behind elliptic curves and zero-knowledge proofs
 - 🐙 Fun fact: I love dogs and bonsais
 - 🔮 
 
