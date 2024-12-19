@@ -3,7 +3,7 @@
 - 🌸 I’m interested in blockchain and cryptography
 - 📓 Exploring how decentralized systems can create a better, more secure world
 - 🌵 Currently diving into the math behind elliptic curves and zero-knowledge proofs
-- 🐙 Fun fact: I love dogs <img src="https://raw.githubusercontent.com//Janosia/main/assets/dog.png" alt="Dog Icon" width="40"> and bonsais
+- 🐙 Fun fact: I love dogs ![Dog Icon](assets/dog.png)and bonsais
 - 🔮 
 
 <!--
