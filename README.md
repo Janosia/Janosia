@@ -1,4 +1,4 @@
-# Hi there 🫧, I am Janosia ఇ ◝‿◜ ఇ! 
+# Hi🫧, I am Janosia ఇ ◝‿◜ ఇ! 
 
 
 <!--
