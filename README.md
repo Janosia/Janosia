@@ -1,6 +1,6 @@
 # Hi🫧, I am Janosia ఇ ◝‿◜ ఇ! 
 
-
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,c++,python,solidity)](https://skillicons.dev)
 <!--
 **Janosia/Janosia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
